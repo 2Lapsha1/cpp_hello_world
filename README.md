@@ -1,3 +1,3 @@
 Шамиль Латыпов
 
-![Screenshot](screenshot.png)
+![Screenshot](image1.png)
